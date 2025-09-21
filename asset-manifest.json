@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/proba_three_goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/proba_three_goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/proba_three_goit-react-hw-01-components/static/css/main.3d3089be.css",
+    "main.js": "/proba_three_goit-react-hw-01-components/static/js/main.3892aa61.js",
     "index.html": "/proba_three_goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/proba_three_goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/proba_three_goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.3d3089be.css.map": "/proba_three_goit-react-hw-01-components/static/css/main.3d3089be.css.map",
+    "main.3892aa61.js.map": "/proba_three_goit-react-hw-01-components/static/js/main.3892aa61.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.3d3089be.css",
+    "static/js/main.3892aa61.js"
   ]
 }
